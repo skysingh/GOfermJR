@@ -1,3 +1,3 @@
 # GOfermJR
-Compiled files for GOfermentorJR
-Version 913 4/16/20 for Blynk system
+Compiled files for GOfermentorJ
+Version 914 5/12/20 for Blynk system - final pre-release
